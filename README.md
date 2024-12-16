@@ -1,4 +1,6 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+# EXP 2 : BOOLEAN FUNCTION MINIMIZATION
+## NAME : YOGESH D
+## REGISTRATION NUMBER : 24006488
 
 **AIM:**
 
@@ -13,10 +15,6 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
-
-**Theory**
-
-**Logic Diagram**
 
 **Procedure**
 
@@ -35,16 +33,17 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by:YOGESH D RegisterNumber: 24006488
 
+![exp 2 code](https://github.com/user-attachments/assets/cc4b987d-64ee-41a0-963c-467d5ee88c56)
 
 **RTL realization**
+![exp 2 circuit ](https://github.com/user-attachments/assets/59060106-d9ee-4060-a74b-338a67204de2)
+
 
 **Output:**
+![exp 2 waveform](https://github.com/user-attachments/assets/25d9ee03-9f1b-4563-b5ae-120b684a6ed1)
 
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
 
